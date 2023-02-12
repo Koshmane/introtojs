@@ -1,6 +1,6 @@
 
 
-Javascript rund outside the browser with Node.js
+Javascript runs outside the browser with Node.js
 
 Name five things JavaScript can do.
 
